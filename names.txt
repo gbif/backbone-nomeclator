@@ -1,26 +1,26 @@
-taxonID	kingdom	taxonRank	scientificName
-1	Plantae	species	Barleria grootbergensis I.Darbysh. & E.Tripp
-2	Plantae	species	Dyschoriste tinctorum (Decne.) E.Tripp & T.F.Daniel
-3	Plantae	species	Mellera calcarata (Benoist) E.Tripp
-4	Plantae	species	Mimulopsis macrantha (Mildbr.) E.Tripp
-5	Plantae	species	Mimulopsis marronina (Vollesen) E.Tripp
-6	Plantae	species	Mimulopsis volleseniana E.Tripp & T.F.Daniel
-7	Plantae	species	Ruellia acetabula E.Tripp & K.G.Dexter
-8	Plantae	species	Ruellia costaricensis (Oerst.) E.Tripp & McDade
-9	Plantae	species	Ruellia exilis McDade & E.Tripp
-10	Plantae	species	Ruellia fulgens (Bremek.) E.Tripp
-11	Plantae	species	Ruellia geayi (Benoist) E.Tripp
-12	Plantae	species	Ruellia haughtii (Leonard) E.Tripp
-13	Plantae	species	Ruellia hirsutissima (Nees) E.Tripp
-14	Plantae	species	Ruellia kaokoana E.Tripp & K.G.Dexter
-15	Plantae	species	Ruellia laslobasensis E.Tripp
-16	Plantae	species	Ruellia longissima (Benoist) E.Tripp
-17	Plantae	species	Ruellia mira McDade & E.Tripp
-18	Plantae	species	Ruellia norvegigratiosa McDade & E.Tripp
-19	Plantae	species	Ruellia odorata E.Tripp & McDade
-20	Plantae	species	Ruellia panamensis (Lindau) E.Tripp
-21	Plantae	species	Ruellia quartziticola Callm., E.Tripp & Phillipson
-22	Plantae	species	Ruellia saccata Schmidt-Leb. & E.Tripp
-23	Plantae	species	Ruellia tachiadena (Heine & A.Raynal) E.Tripp
-24	Plantae	species	Ruellia wasshauseniana E.Tripp
+taxonID	kingdom	taxonRank	scientificName	nomenclaturalStatus	namePublishedIn
+1	Plantae	species	Barleria grootbergensis I.Darbysh. & E.Tripp		Kew Bull. 67(4): 760 (2012)
+2	Plantae	species	Dyschoriste tinctorum (Decne.) E.Tripp & T.F.Daniel		Int. J. Pl. Sci. 174(1): 127 (2013)
+3	Plantae	species	Mellera calcarata (Benoist) E.Tripp		Int. J. Pl. Sci. 174(1): 128 (2013)
+4	Plantae	species	Mimulopsis macrantha (Mildbr.) E.Tripp		Int. J. Pl. Sci. 174(1): 128 (2013)
+5	Plantae	species	Mimulopsis marronina (Vollesen) E.Tripp		Int. J. Pl. Sci. 174(1): 128 (2013)
+6	Plantae	species	Mimulopsis volleseniana E.Tripp & T.F.Daniel		Int. J. Pl. Sci. 174(1): 128 (2013)
+7	Plantae	species	Ruellia acetabula E.Tripp & K.G.Dexter		Syst. Bot. 37(4): 1024 (2012)
+8	Plantae	species	Ruellia costaricensis (Oerst.) E.Tripp & McDade		Brittonia 59(3): 209 (2007)
+9	Plantae	species	Ruellia exilis McDade & E.Tripp		Brittonia 59(3): 202 (2007)
+10	Plantae	species	Ruellia fulgens (Bremek.) E.Tripp		Syst. Bot. 32(3): 644 (2007)
+11	Plantae	species	Ruellia geayi (Benoist) E.Tripp		Syst. Bot. 32(3): 644 (2007)
+12	Plantae	species	Ruellia haughtii (Leonard) E.Tripp		Taxon 58(3): 902 (2009)
+13	Plantae	species	Ruellia hirsutissima (Nees) E.Tripp		Int. J. Pl. Sci. 174(1): 122 (2013)
+14	Plantae	species	Ruellia kaokoana E.Tripp & K.G.Dexter		Syst. Bot. 37(4): 1024 (2012)
+15	Plantae	species	Ruellia laslobasensis E.Tripp		Syst. Bot. 35(3): 649 (2010)
+16	Plantae	species	Ruellia longissima (Benoist) E.Tripp	nom.illeg	Int. J. Pl. Sci. 174(1): 122 (2013)
+17	Plantae	species	Ruellia mira McDade & E.Tripp		Brittonia 59(3): 204 (2007)
+18	Plantae	species	Ruellia norvegigratiosa McDade & E.Tripp		Brittonia 59(3): 206 (2007)
+19	Plantae	species	Ruellia odorata E.Tripp & McDade		Brittonia 59(3): 200 (2007)
+20	Plantae	species	Ruellia panamensis (Lindau) E.Tripp		Taxon 58(3): 902 (2009)
+21	Plantae	species	Ruellia quartziticola Callm., E.Tripp & Phillipson		Candollea 69(1): 82 (2014)
+22	Plantae	species	Ruellia saccata Schmidt-Leb. & E.Tripp		Novon 19(4): 516 (2009)
+23	Plantae	species	Ruellia tachiadena (Heine & A.Raynal) E.Tripp		Int. J. Pl. Sci. 174(1): 122 (2013)
+24	Plantae	species	Ruellia wasshauseniana E.Tripp		Int. J. Pl. Sci. 174(1): 122 (2013)
 

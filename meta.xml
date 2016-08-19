@@ -8,5 +8,7 @@
     <field index="1" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
     <field index="2" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
     <field index="3" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+    <field index="4" term="http://rs.tdwg.org/dwc/terms/nomenclaturalStatus"/>
+    <field index="5" term="http://rs.tdwg.org/dwc/terms/namePublishedIn"/>
   </core>
 </archive>
