@@ -1,0 +1,55 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         xml:lang="en">
+
+<dataset>
+  <title xml:lang="en">Backbone Family Classification Patch</title>
+<creator>
+    <individualName>
+      <givenName>Markus</givenName>
+      <surName>Döring</surName>
+    </individualName>
+    <organizationName>GBIF</organizationName>
+    <electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+</creator>
+
+<metadataProvider>
+    <individualName>
+      <givenName>Markus</givenName>
+      <surName>Döring</surName>
+    </individualName>
+    <organizationName>GBIF</organizationName>
+    <electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+</metadataProvider>
+
+<pubDate>2015-04-19</pubDate>
+<language>en</language>
+<abstract>
+  <para>Patch to assign a classification to otherwise unclassified backbone families which get pooled under the "incertae sedis" kingdom of the GBIF taxonomic backbone.
+  </para>
+</abstract>
+<distribution scope="document">
+	<online>
+		<url function="information">https://github.com/gbif/backbone-family-patch</url>
+	</online>
+</distribution>
+  <contact>
+      <individualName>
+        <givenName>Markus</givenName>
+        <surName>Döring</surName>
+      </individualName>
+      <organizationName>GBIF</organizationName>
+      <electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+  </contact>
+</dataset>
+
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <hierarchyLevel>dataset</hierarchyLevel>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

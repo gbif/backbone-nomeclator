@@ -1,0 +1,12 @@
+<archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">
+  <core encoding="utf-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
+    <files>
+      <location>names.txt</location>
+    </files>
+    <id index="0" />
+    <field index="0" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
+    <field index="1" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
+    <field index="2" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
+    <field index="3" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+  </core>
+</archive>
